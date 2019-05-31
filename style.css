@@ -1,0 +1,51 @@
+/* CSS files add styling rules to your content */
+html {
+  touch-action: manipulation;
+}
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #262626;
+}
+
+h1 {
+  font-style: ;
+  color: #33DAFF;
+}
+
+button {
+	background-color:#33DAFF;
+/* 	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px; */
+  border: none;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+  width: 30%;
+  
+}
+button:hover {
+	background-color:#24B4D4;
+}
+button:active {
+	position:relative;
+	top:1px;
+}
+div {
+  
+  width: 100%;
+  height: auto;
+  align-content: center;
+  display: grid;  
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
