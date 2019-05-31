@@ -1,0 +1,19 @@
+let snd = new Audio("https://cdn.glitch.com/91a0c1dc-5ca7-4cae-a05a-a523d0e3ec4a%2FBTDK_Kick_03.wav?1559240633638");
+	  snd.volume = 1;
+    let snd2 = new Audio("https://cdn.glitch.com/91a0c1dc-5ca7-4cae-a05a-a523d0e3ec4a%2FBTDK_Hat_02.wav?1559240444191");
+	  snd2.volume = 1;
+    let snd3 = new Audio("https://cdn.glitch.com/91a0c1dc-5ca7-4cae-a05a-a523d0e3ec4a%2FBTDK_Clap_3.wav?1559240406252");
+	  snd3.volume = 1;
+    let snd4 = new Audio("https://cdn.glitch.com/91a0c1dc-5ca7-4cae-a05a-a523d0e3ec4a%2FBTDK_808_2.wav?1559240686670");
+	  snd4.volume = 1;
+    let snd5 = new Audio("https://cdn.glitch.com/91a0c1dc-5ca7-4cae-a05a-a523d0e3ec4a%2FBTDK_SnareSnap_04.wav?1559243409915");
+	  snd5.volume = 1;
+    let snd6 = new Audio("https://cdn.glitch.com/91a0c1dc-5ca7-4cae-a05a-a523d0e3ec4a%2FBTDK_Perc_13.wav?1559243922640");
+	  snd6.volume = 1;
+    let snd7 = new Audio("https://cdn.glitch.com/91a0c1dc-5ca7-4cae-a05a-a523d0e3ec4a%2FBTDK_Crash_10.wav?1559244047077");
+	  snd7.volume = 1;
+    let snd8 = new Audio("https://cdn.glitch.com/91a0c1dc-5ca7-4cae-a05a-a523d0e3ec4a%2FBTDK_Perc_28.wav?1559244165313");
+	  snd8.volume = 1;
+    let snd9 = new Audio("https://cdn.glitch.com/91a0c1dc-5ca7-4cae-a05a-a523d0e3ec4a%2FBTDK_FX_08.wav?1559243803197");
+	  snd9.volume = 1;
+
